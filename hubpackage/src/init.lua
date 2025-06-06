@@ -726,7 +726,7 @@ local function handler_infochanged (driver, device, event, args)
   -- Did preferences change?
   if args.old_st_store.preferences then
   
-    if devtype(device) ~= Master then
+    if devtype(device) ~= 'Master' then
   
       -- Go ahead and rebuild all current preferences
   
