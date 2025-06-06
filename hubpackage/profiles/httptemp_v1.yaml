@@ -7,13 +7,13 @@ components:
         config:
           values:
             - key: "temperature.value"
-              range: [-120, 200]
+              range: [0, 100]
       - id: partyvoice23922.vtempset
         version: 1
         config:
           values:
             - key: "vtemp.value"
-              range: [-120, 200]
+              range: [0, 100]
       - id: partyvoice23922.httpcode
         version: 1
     categories:
