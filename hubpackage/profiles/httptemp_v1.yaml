@@ -8,16 +8,12 @@ components:
           values:
             - key: "temperature.value"
               range: [-120, 200]
-      - id: relativeHumidityMeasurement
-        version: 1
       - id: partyvoice23922.vtempset
         version: 1
         config:
           values:
             - key: "vtemp.value"
               range: [-120, 200]
-      - id: partyvoice23922.vhumidityset
-        version: 1
       - id: partyvoice23922.httpcode
         version: 1
     categories:
