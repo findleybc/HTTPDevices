@@ -1,5 +1,5 @@
-name: 'HTTP Devices V1'
-packageKey: 'httpdevicesv1'
+name: 'st HTTP Devices V1'
+packageKey: 'sthttpdevicesv1'
 permissions:
     lan: {}
     discovery: {}

@@ -38,7 +38,7 @@ local creator_device
 local clearcreatemsg_timer
 
 -- Constants
-local CREATOR_PROFILE = 'httpcreator.v2b'
+local CREATOR_PROFILE = 'sthttpcreator.v2b'
 local CREATOR_CAPABILITY = 'partyvoice23922.createhttpdev2b'
 local SINGLEURLPREFIX = 'xx'
 
